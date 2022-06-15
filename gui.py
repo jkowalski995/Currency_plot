@@ -2,40 +2,8 @@
 provides information about values on two tables A and B. In order to keep it as simple as possible I only work with
 table A so not every currency is available. List of currency is below:
 
-THB
-USD
-AUD
-HKD
-CAD
-NZD
-SGD
-EUR
-HUF
-CHF
-GBP
-UAH
-JPY
-CZK
-DKK
-ISK
-NOK
-SEK
-HRK
-RON
-BGN
-TRY
-ILS
-CLP
-PHP
-MXN
-ZAR
-BRL
-MYR
-IDR
-INR
-KRW
-CNY
-XDR
+THB USD AUD HKD CAD NZD SGD EUR HUF CHF GBP UAH JPY CZK DKK ISK NOK SEK HRK RON BGN TRY ILS CLP
+PHP MXN ZAR BRL MYR IDR INR KRW CNY XDR
 
 """
 import json
